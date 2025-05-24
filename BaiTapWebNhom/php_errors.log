@@ -1,0 +1,213 @@
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 255
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 255
+[23-Apr-2025 02:54:41 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in C:\xampp\htdocs\BaiTapWebNhom\chude.php:256
+Stack trace:
+#0 C:\xampp\htdocs\BaiTapWebNhom\chude.php(256): number_format('600.000\xC4\x91', 0, ',', '.')
+#1 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 256
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 255
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 255
+[23-Apr-2025 02:56:22 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in C:\xampp\htdocs\BaiTapWebNhom\chude.php:263
+Stack trace:
+#0 C:\xampp\htdocs\BaiTapWebNhom\chude.php(263): number_format('600.000\xC4\x91', 0, ',', '.')
+#1 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:00:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in C:\xampp\htdocs\BaiTapWebNhom\chude.php:265
+Stack trace:
+#0 C:\xampp\htdocs\BaiTapWebNhom\chude.php(265): number_format('600.000\xC4\x91', 0, ',', '.')
+#1 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 265
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "image_url" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 252
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_name" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 257
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "discount_price" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 263
+[23-Apr-2025 03:02:51 Europe/Berlin] PHP Warning:  Undefined array key "product_id" in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 268
+[23-Apr-2025 03:20:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':theme_id' at line 1 in C:\xampp\htdocs\BaiTapWebNhom\chude.php:51
+Stack trace:
+#0 C:\xampp\htdocs\BaiTapWebNhom\chude.php(51): mysqli->prepare('SELECT product_...')
+#1 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 51
+[25-Apr-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $discounted_products in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 238
+[25-Apr-2025 02:51:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\BaiTapWebNhom\chude.php:238
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 238
+[25-Apr-2025 02:51:46 Europe/Berlin] PHP Warning:  Undefined variable $discounted_products in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 258
+[25-Apr-2025 02:51:46 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\BaiTapWebNhom\chude.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 258
+[25-Apr-2025 02:51:47 Europe/Berlin] PHP Warning:  Undefined variable $discounted_products in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 258
+[25-Apr-2025 02:51:47 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\BaiTapWebNhom\chude.php:258
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\BaiTapWebNhom\chude.php on line 258
